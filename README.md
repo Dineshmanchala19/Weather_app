@@ -12,7 +12,7 @@ A simple weather application built using the OpenWeather API, allowing users to 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/weather_app.git
+    git clone https://github.com/Dineshmanchala19/weather_app.git
     ```
 
 2. Navigate to the project directory:
